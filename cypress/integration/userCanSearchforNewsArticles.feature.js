@@ -19,9 +19,9 @@ describe("User can search for news articles", () => {
     ).should("be.visible");
   });
 
-  it("User can see last title", () => {
+  it("User can see second title", () => {
     cy.contains(
-      "Californians React Biden's Decision To Name Kamala Harris His Running Mate"
+      "News von heute: Umfrage: SPD legt nach Scholz-Nominierung leicht zu"
     ).should("be.visible");
   });
 });

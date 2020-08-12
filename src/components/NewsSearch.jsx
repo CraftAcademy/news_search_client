@@ -25,8 +25,10 @@ class NewsSearch extends Component {
     const showArticles = this.state.items.map((article) => {
       return (
         <div>
-          <p>{article.title}</p>
-          <p>{article.description}</p>
+          <ul>
+          <li><h2>{article.title}</h2>
+          <p>{article.description}</p></li>
+          </ul>
         </div>
       );
     });
