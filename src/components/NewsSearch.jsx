@@ -26,6 +26,7 @@ class NewsSearch extends Component {
       return (
         <div>
           <p>{article.title}</p>
+          <p>{article.description}</p>
         </div>
       );
     });
@@ -35,12 +36,13 @@ class NewsSearch extends Component {
         <form onSubmit={this.handleSubmit}>
           <Input
             type="text"
+            name="search"
             data-cy="news-search"
             placeholder="Input search term"
             value={this.state.searchTerm}
             onChange={this.onChange}
           />
-          <Button data-cy="search-submit">Search</Button>
+          <Button id="submit" data-cy="search-submit">Search</Button>
         </form>
         <p>{showArticles}</p>
       </>

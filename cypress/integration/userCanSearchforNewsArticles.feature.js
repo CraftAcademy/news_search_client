@@ -10,22 +10,18 @@ describe("User can search for news articles", () => {
 
     cy.visit("/");
     cy.get("input").type("Biden");
-    cy.get("#search").click();
-  });
-
-  it(" Displays total results of 31672", () => {
-    cy.contains("31672").should("be.visible");
+    cy.get("#submit").click();
   });
 
   it("User can see first title", () => {
     cy.contains(
-      "US: Harris under scrutiny for tough-on-crime prosecutor past"
+      "Kamala Harris on student-loan forgiveness, Medicare, universal basic income, credit scores — and a tax on trading stocks"
     ).should("be.visible");
   });
 
   it("User can see last title", () => {
     cy.contains(
-      "China increases military drills as tensions with US heat up - CNN"
+      "Californians React Biden's Decision To Name Kamala Harris His Running Mate"
     ).should("be.visible");
   });
 });
