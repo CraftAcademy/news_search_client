@@ -3,21 +3,38 @@ import { Button, Input } from "semantic-ui-react";
 import axios from "axios";
 
 class NewsSearch extends Component {
+  state = {
+    search: "",
+    articles: []
+  };
 
-  searchNews = async () => {
-    const results = await axios.get(`http://newsapi.org/v2/everything?q=${this.state.search}&from=2020-07-12&sortBy=publishedAt&apiKey=8225ccbb856d480682e8488928542447`)
-    this.setState({ items: results.data.items })
-  }
-  
+  performSearch = async () => {
+    const results = await axios.get(
+      `http://newsapi.org/v2/everything?q=${this.state.search}&from=2020-07-12&sortBy=publishedAt&apiKey=8225ccbb856d480682e8488928542447`
+    );
+    this.setState({ articles: results.data.articles });
+  };
+
+  setValue = (event) => {
+    this.setState({ search: event.target.value });
+  };
+
   render() {
+    let articlesDisplay = this.state.articles.map(article => {
+      return <li>{article.title}</li>;
+    });
     return (
       <>
         <Input
+          onChange={(e) => this.setValue(e)}
           type="text"
           data-cy="news-search"
           placeholder="Input search term"
         />
-        <Button data-cy="search-submit">Search</Button>
+        <Button name="search" id="search" onClick={this.performSearch}>
+          Search
+        </Button>
+        <ul id="search-results">{articlesDisplay}</ul>
       </>
     );
   }
