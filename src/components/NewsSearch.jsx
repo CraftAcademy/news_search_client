@@ -1,31 +1,27 @@
 import React, { useState } from 'react'
+import { useDispatch } from 'react-redux'
 import { Button, Input } from 'semantic-ui-react'
 import axios from 'axios'
 
 const NewsSearch = () => {
-  let [articlesList, setArticlesList] = useState()
-  let key = 1
+  let [query, setQuery] = useState()
+  const dispatch = useDispatch()
   const performSearch = async (event) => {
-    let q = event.target.previousSibling.children[0].value
-    let results = await axios.get(`http://newsapi.org/v2/everything?q=${q}&from=2020-07-12&sortBy=publishedAt&apiKey=${process.env.REACT_APP_API_KEY}`)
-    setArticlesList(results.data.articles)
+    let results = await axios.get(`http://newsapi.org/v2/everything?q=${query}&from=2020-07-12&sortBy=publishedAt&apiKey=${process.env.REACT_APP_API_KEY}`)
+    dispatch({ type: 'SET_ARTICLES', payload: results.data.articles })
   }
   return (
     <>
       <Input
         type="text"
+        onBlur={event => setQuery(event.target.value)}
         data-cy="news-search"
         placeholder="Input search term" />
       <Button
-        onClick={(event) => performSearch(event)}
+        onClick={event => performSearch(event)}
         data-cy="search-submit">
         Search
         </Button>
-      <ul data-cy="articles-list">
-        {articlesList && articlesList.map(article => {
-          return <li key={key++}>{article.title}</li>
-        })}
-      </ul>
     </>
   )
 }
