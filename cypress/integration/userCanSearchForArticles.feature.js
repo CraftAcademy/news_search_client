@@ -3,7 +3,7 @@ describe("User can search articles", () => {
     cy.server()
     cy.route({
       method: 'GET',
-      url: 'http://newsapi.org/v2/everything?q=biden&from=2020-07-12&sortBy=publishedAt&apiKey=',
+      url: 'http://newsapi.org/v2/everything?q=biden&from=2020-07-12&sortBy=publishedAt&apiKey=<API KEY>',
       response: 'fixture:biden.json'
     })
     cy.visit("/")
