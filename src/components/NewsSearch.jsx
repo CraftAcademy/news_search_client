@@ -13,7 +13,7 @@ import axios from 'axios'
    }
 
   async performSearch() {
-     const result =  await axios.get("http://newsapi.org/v2/everything?q=${this.state.searchItem}&from=2020-07-12&sortBy=publishedAt&apiKey==eae1a29865074492af4d8f77081210c9");
+     const result =  await axios.get("http://newsapi.org/v2/everything?q=${this.state.searchItem}&from=2020-07-12&sortBy=publishedAt&apiKey=");
      this.setState({
        articles: result.data.articles
      })
