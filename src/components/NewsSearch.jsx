@@ -3,14 +3,18 @@ import { Button, Input } from "semantic-ui-react";
 import axios from "axios";
 
 class NewsSearch extends Component {
-  
+  state = {
+    searchTerm: [],
+    items: []
+  };
+
   onChange = (e) => {
     this.setState({ searchTerm: e.target.value });
   };
 
   handleSubmit = async (e) => {
     e.preventDefault();
-    const url = `http://newsapi.org/v2/everything?${this.state.searchTerm}q=&from=2020-07-12&sortBy=publishedAt&apiKey=<API KEY>`;
+    const url = `http://newsapi.org/v2/everything?q=${this.state.searchTerm}&from=2020-07-12&sortBy=publishedAt&apiKey=<API KEY>`;
     const response = await axios.get(url);
     this.setState({
       items: response.data.articles,
@@ -18,6 +22,14 @@ class NewsSearch extends Component {
   };
 
   render() {
+    const showArticles = this.state.items.map((article) => {
+      return (
+        <div>
+          <p>{article.title}</p>
+        </div>
+      );
+    });
+
     return (
       <>
         <form onSubmit={this.handleSubmit}>
@@ -30,6 +42,7 @@ class NewsSearch extends Component {
           />
           <Button data-cy="search-submit">Search</Button>
         </form>
+        <p>{showArticles}</p>
       </>
     );
   }
