@@ -10,7 +10,7 @@ class NewsSearch extends Component {
 
   performSearch = async () => {
     const results = await axios.get(
-      `http://newsapi.org/v2/everything?q=${this.state.search}&from=2020-07-12&sortBy=publishedAt&apiKey=8225ccbb856d480682e8488928542447`
+      `http://newsapi.org/v2/everything?q=${this.state.search}&from=2020-07-12&sortBy=publishedAt&apiKey=`
     );
     this.setState({ articles: results.data.articles });
   };
