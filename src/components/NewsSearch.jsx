@@ -6,7 +6,7 @@ import axios from 'axios'
 const NewsSearch = () => {
   let [query, setQuery] = useState()
   const dispatch = useDispatch()
-  const performSearch = async (event) => {
+  const performSearch = async () => {
     let results = await axios.get(`http://newsapi.org/v2/everything?q=${query}&from=2020-07-12&sortBy=publishedAt&apiKey=${process.env.REACT_APP_API_KEY}`)
     dispatch({ type: 'SET_ARTICLES', payload: results.data.articles })
   }
