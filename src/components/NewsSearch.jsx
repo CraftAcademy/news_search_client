@@ -7,8 +7,7 @@ const NewsSearch = () => {
   const [articleSearch, setArticleSearch] = useState();
   const [result, setResult ] = useState([])
 
-  const search = async (event) => {
-    debugger
+  const search = async () => {
     let response = await axios.get(`http://newsapi.org/v2/everything?q=${articleSearch}&from=2020-07-12&sortBy=publishedAt&apiKey=${process.env.REACT_APP_APIKEY}`)
     setResult(response.data)
   };
