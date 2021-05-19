@@ -3,7 +3,7 @@ describe('User can search for articles', () => {
     beforeEach(() => {
       cy.intercept(
         'GET',
-        'http://newsapi.org/v2/everything?=biden&from=2020-07-12&sortBy=publishedAt',
+        'https://newsapi.org/v2/everything?q=tesla',
         {
           fixture: 'biden.json',
         }
@@ -14,10 +14,8 @@ describe('User can search for articles', () => {
 
   it('is expected to show search resaults ', () => {
     cy.visit('/');
-    cy.get('[data-cy=news-search]').type('Biden');
+    cy.get('[data-cy=news-search]').type('Vanguard');
     cy.get('[data-cy=search-submit]').click;
-    cy.get('[data-cy=search-resault]').should('contain', 'articles')
+    cy.get('[data-cy=search-resault]').should('contain', 'articles');
   });
-
-
 });
