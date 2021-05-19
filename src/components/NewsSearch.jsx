@@ -2,6 +2,8 @@ import React from 'react'
 import { Button, Input } from 'semantic-ui-react'
 
 const NewsSearch = () => {
+  
+
   return (
     <>
       <Input
