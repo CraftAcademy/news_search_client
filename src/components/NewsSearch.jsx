@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Button, Input, Container,Card } from 'semantic-ui-react';
+import { Button, Input, Container, Card } from 'semantic-ui-react';
 import axios from 'axios';
 
 const NewsSearch = () => {
@@ -10,9 +10,9 @@ const NewsSearch = () => {
 
   const searchArticle = async (name) => {
     const response = await axios.get(
-      `https://newsapi.org/v2/everything?q=tesla&apiKey=${API_KEY}&source=${name}`
+      `https://newsapi.org/v2/everything?q=${name}&apiKey=${API_KEY}&source=name`
     );
-    setArtices(response.data);
+    setArtices(response.data.articles);
   };
   const onSubmit = (event) => {
     event.preventDefault();
@@ -23,7 +23,16 @@ const NewsSearch = () => {
   const onChange = (event) => setText(event.target.value);
 
   let articleList = articles.map((article, i) => {
-    return <Card article={article} i={i} />;
+    return (
+      <>
+        <p data-cy='article-title' i={i}>
+          {JSON.stringify(article.title)}
+        </p>
+        <p data-cy='article-title' i={i}>
+          {article.content}
+        </p>
+      </>
+    );
   });
   return (
     <>
@@ -34,11 +43,11 @@ const NewsSearch = () => {
         onChange={onChange}
         value={text}
       />
-      <Button data-cy='search-submit' type='submit' onSubmit={onSubmit}>
+      <Button data-cy='search-submit' type='submit' onClick={onSubmit}>
         Search
       </Button>
-      <Container data-cy='search-resault'>
-        <p>{articleList}</p>
+      <Container data-cy='search-container'>
+        <p data-cy='article'>{articleList}</p>
       </Container>
     </>
   );
