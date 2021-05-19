@@ -1,266 +1,266 @@
 {
   "status": "ok",
-  "totalResults": 31672,
+  "totalResults": 79270,
   "articles": [
-    {
-      "source": {
-        "id": null,
-        "name": "Vanguard"
+      {
+          "source": {
+              "id": "wirtschafts-woche",
+              "name": "Wirtschafts Woche"
+          },
+          "author": "Wirtschaftswoche",
+          "title": "Sanktionen: Biden-Regierung nach Bericht über Nord Stream 2 unter Druck",
+          "description": "US-Präsident Biden hat Nord Stream 2 „einen schlechten Deal für Europa“ genannt. Nun sieht er sich Vorwürfen ausgesetzt, er habe die Ostsee-Pipeline nie wirklich verhindern wollen.",
+          "url": "https://www.wiwo.de/politik/ausland/ostsee-pipeline-bericht-ueber-verzicht-auf-sanktionen-gegen-nord-stream-2-bringt-biden-unter-druck/27203490.html",
+          "urlToImage": "https://www.wiwo.de/images/nord-stream-2-/27203486/2-format11240.jpg",
+          "publishedAt": "2021-05-19T08:34:18Z",
+          "content": "Die Regierung von US-Präsident Joe Biden gerät im Zusammenhang mit der umstrittenen deutsch-russischen Ostsee-Pipeline Nord Stream 2 unter Druck. Hintergrund ist ein Bericht der US-Nachrichtenseite A… [+4809 chars]"
       },
-      "author": "Rasheed Sobowale",
-      "title": "US: Harris under scrutiny for tough-on-crime prosecutor past",
-      "description": "While many will hail the choice of Kamala Harris as Joe Biden’s running mate, the US senator from California has come under tough criticism — but also been praised — over her past work as a top prosecutor. Harris, the first woman and the first black attorney …",
-      "url": "https://www.vanguardngr.com/2020/08/us-harris-under-scrutiny-for-tough-on-crime-prosecutor-past/",
-      "urlToImage": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2020/08/Kamala-Harris-Biden.jpg?fit=1200%2C630&ssl=1",
-      "publishedAt": "2020-08-12T04:51:00Z",
-      "content": "JOE BIDEN and KAMALA HARRIS. PHOTO: Brian Cahn/ZUMA Wire\r\nWhile many will hail the choice of Kamala Harris as Joe Biden’s running mate, the US senator from California has come under tough criticism —… [+4383 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Minneapolis Star Tribune"
+      {
+          "source": {
+              "id": "politico",
+              "name": "Politico"
+          },
+          "author": "By Burgess Everett and Sarah Ferris",
+          "title": "Liberals to Biden: Ditch the infrastructure talks with Republicans",
+          "description": "Rep. Mark Pocan (D-Wis.) called the GOP’s latest counteroffer “ridiculous” and said the Republicans might as well have proposed paying for it with a “bake sale.\"",
+          "url": "https://www.politico.com/news/2021/05/19/biden-liberals-republicans-infrastructure-489418",
+          "urlToImage": "https://static.politico.com/3a/39/acc74ee240f3ac5b950ce4aa8176/ap21073689697841-1.jpg",
+          "publishedAt": "2021-05-19T08:30:54Z",
+          "content": "I do not think that the White House should relegate recovery to the judgment of Mitch McConnell, because he will not function in good faith, said Gillibrand, who made her case recently to Bruce Reed,… [+6912 chars]"
       },
-      "author": "ELANA SCHOR",
-      "title": "Harris brings Baptist, interfaith roots to Democratic ticket",
-      "description": "Follow the StarTribune for the news, photos and videos from the Twin Cities and beyond.",
-      "url": "https://www.startribune.com/harris-brings-baptist-interfaith-roots-to-democratic-ticket/572084632/",
-      "urlToImage": "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1597078316",
-      "publishedAt": "2020-08-12T04:50:03Z",
-      "content": "Kamala Harris, tapped on Tuesday as Joe Biden's running mate, attended services at both a Black Baptist church and a Hindu temple growing up an interfaith background that reflects her historic status… [+2915 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vanguard"
+      {
+          "source": {
+              "id": "reuters",
+              "name": "Reuters"
+          },
+          "author": "Kanishka Singh",
+          "title": "Southern Baptist official and Trump critic Russell Moore to leave his post - Reuters",
+          "description": "A senior official in the Southern Baptist Convention who had criticised former U.S. President Donald Trump is leaving his post with the influential evangelical organisation.",
+          "url": "https://www.reuters.com/world/us/southern-baptist-official-trump-critic-russell-moore-leave-his-post-2021-05-19/",
+          "urlToImage": null,
+          "publishedAt": "2021-05-19T08:28:00Z",
+          "content": "A senior official in the Southern Baptist Convention who had criticised former U.S. President Donald Trump is leaving his post with the influential evangelical organisation.\r\nRussell Moore said in a … [+1590 chars]"
       },
-      "author": "Rasheed Sobowale",
-      "title": "Trump says ‘surprised’ at Biden’s pick of ‘horrible’ Harris",
-      "description": "President Donald Trump on Tuesday called Kamala Harris the “most horrible” member of the US Senate and said he was “surprised” Joe Biden had picked her as his vice presidential candidate. Trump told reporters at the White House that Harris did not impress him…",
-      "url": "https://www.vanguardngr.com/2020/08/trump-says-surprised-at-bidens-pick-of-horrible-harris/",
-      "urlToImage": "https://i0.wp.com/www.vanguardngr.com/wp-content/uploads/2020/05/28945254-8367085-image-a-15_1590696618313.jpg?fit=962%2C669&ssl=1",
-      "publishedAt": "2020-08-12T04:49:55Z",
-      "content": "Trump\r\nPresident Donald Trump on Tuesday called Kamala Harris the “most horrible” member of the US Senate and said he was “surprised” Joe Biden had picked her as his vice presidential candidate.\r\nTru… [+476 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Www.bt.dk"
+      {
+          "source": {
+              "id": null,
+              "name": "CounterPunch"
+          },
+          "author": "Sarah McMillan",
+          "title": "“Management’ of Wolves in Idaho and Montana Harkens Back to Extermination Era",
+          "description": "On May 6, Idaho Governor Brad Little signed a gray wolf extermination bill into law that allows hunters, trappers—and even paid private contractors—to slaughter up to 90% of the wolves in Idaho. The new law permits the killing of wolves by various cruel and u…",
+          "url": "https://www.counterpunch.org/2021/05/19/management-of-wolves-in-idaho-and-montana-harkens-back-to-extermination-era/",
+          "urlToImage": null,
+          "publishedAt": "2021-05-19T08:23:49Z",
+          "content": "On May 6, Idaho Governor Brad Little signed a gray wolf extermination bill into law that allows hunters, trappersand even paid private contractorsto slaughter up to 90% of the wolves in Idaho.\r\nThe n… [+3607 chars]"
       },
-      "author": "hoeg@berlingskemedia.dk (Henning Høeg)",
-      "title": "Joe Bidens nye partner: 'Dele-mor' til to",
-      "description": "Læs mere her.",
-      "url": "https://www.bt.dk/udland/joe-bidens-nye-partner-dele-mor-til-to",
-      "urlToImage": "https://bt.bmcdn.dk/media/cache/resolve/image_960x545/image/152/1524630/23493230-usa-electionbiden-harris.jpg",
-      "publishedAt": "2020-08-12T04:49:00Z",
-      "content": "Jore Bidens vicepræsidentkandidat, Kamala Harris er enestående på mange måder.\r\nIkke alene er den 55-årige senator fra Californien den første sorte kvinde, der officielt stiller op til jobbet som USA… [+4945 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Toronto Star"
+      {
+          "source": {
+              "id": null,
+              "name": "Presstv.com"
+          },
+          "author": null,
+          "title": "China says US threatening peace in Taiwan Strait",
+          "description": "China says the United States threatens the peace and stability of the Taiwan Strait, shortly after the US military sent yet another warship to the sensitive waterway.",
+          "url": "https://www.presstv.com/Detail/2021/05/19/656974/China-says-US-threatening-peace-in-Taiwan-Strait",
+          "urlToImage": "https://cdn.presstv.com/Photo/2021/5/19/6940b65b-f369-469e-a207-69ce35628534.jpg",
+          "publishedAt": "2021-05-19T08:22:43Z",
+          "content": "China says the United States threatens the peace and stability of the Taiwan Strait, shortly after the US military sent yet another warship to the sensitive waterway.\r\nThe US Navy confirmed that the … [+1977 chars]"
       },
-      "author": "Elana Schor - The Associated Press",
-      "title": "Harris brings Baptist, interfaith roots to Democratic ticket",
-      "description": "Kamala Harris, tapped on Tuesday as Joe Biden’s running mate, attended services at both a Black Baptist church and a Hindu temple growing up – an inte...",
-      "url": "https://www.thestar.com/news/world/us/2020/08/12/harris-brings-baptist-interfaith-roots-to-democratic-ticket.html",
-      "urlToImage": "https://images.thestar.com/Qgfu-6j_AxWCcBv5bcuSGG3JrMU=/1280x1024/smart/filters:cb(1597207947928)/https://www.thestar.com/content/dam/thestar/news/world/us/2020/08/12/harris-brings-baptist-interfaith-roots-to-democratic-ticket/NYPS205-811_2019_111553.jpg",
-      "publishedAt": "2020-08-12T04:47:47Z",
-      "content": "Kamala Harris, tapped on Tuesday as Joe Bidens running mate, attended services at both a Black Baptist church and a Hindu temple growing up an interfaith background that reflects her historic status … [+3239 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Portfolio.hu"
+      {
+          "source": {
+              "id": null,
+              "name": "Www.dn.se"
+          },
+          "author": "Karin Eriksson",
+          "title": "Karin Eriksson: Biden kan skärpa tonen mot Israel för att slippa bråk på hemmaplan",
+          "description": "USA:s president har av allt att döma inga planer på att mäkla fred i Mellanöstern.",
+          "url": "https://www.dn.se/varlden/karin-eriksson-biden-kan-skarpa-tonen-mot-israel-for-att-slippa-brak-pa-hemmaplan/",
+          "urlToImage": "https://cached-images.bonnier.news/swift/bilder/mly/37423b41-d923-4da0-9418-236348a8d757.jpeg?interpolation=lanczos-none&fit=around%7C1024:576&crop=1024:h;center,top&output-quality=80&output-format=auto",
+          "publishedAt": "2021-05-19T08:21:54Z",
+          "content": "USA måste återta ledarskapet i världen, konstaterade presidentkandidaten Joe Biden i en debattartikel i tidskriften Foreign Affairs förra våren.\r\nMed raket- och flygkriget i Israel och Gaza har han s… [+3120 chars]"
       },
-      "author": "Portfolio.hu",
-      "title": "Megvan Joe Biden alelnökjelöltje",
-      "description": "Kamala Harris kaliforniai szenátor lesz Joe Biden, a demokraták várható elnökjelöltjének alelnökjelöltje - jelentette be kedden délután Delaware-ban kiadott közleményében Biden kampánycsapata.",
-      "url": "https://www.portfolio.hu/gazdasag/20200812/megvan-joe-biden-alelnokjeloltje-444568",
-      "urlToImage": "https://cdn.portfolio.hu/articles/images-xl/a/m/e/amerika-valasztas-demokrata-elovalasztas-usa-351693.jpg",
-      "publishedAt": "2020-08-12T04:46:00Z",
-      "content": "Az 55 éves szenátor, aki korábban ügyész volt Kaliforniában, az els színesbr ni alelnökjelölt az Egyesült Államok történetében.\r\n\"Végtelen megtiszteltetéssel jelentem be, hogy Kamala Harrist, a dolgo… [+1168 chars]"
-    },
-    {
-      "source": {
-        "id": "liberation",
-        "name": "Libération"
+      {
+          "source": {
+              "id": null,
+              "name": "Motorpasión"
+          },
+          "author": "Alejandra Otero",
+          "title": "¡Épico! Joe Biden exprime en el 0-100 a la Ford F-150 eléctrica para celebrar su estreno",
+          "description": "Hoy se desvelará un modelo que supone un antes y un después para Ford: la F-150 Lightning que es la variante eléctrica de la exitosa pick-up que viene a sumarse a las ya varias propuestas de camionetas cero emisiones sobre la mesa. Y la marca del óvalo calien…",
+          "url": "https://www.motorpasion.com/ford/epico-joe-biden-exprime-0-100-a-ford-f-150-electrica-para-celebrar-su-estreno",
+          "urlToImage": "https://i.blogs.es/f4c557/ford-f-150-lightning-2022-joe-biden-02/840_560.jpeg",
+          "publishedAt": "2021-05-19T08:20:16Z",
+          "content": "Hoy se desvelará un modelo que supone un antes y un después para Ford: la F-150 Lightning que es la variante eléctrica de la exitosa pick-up que viene a sumarse a las ya varias propuestas de camionet… [+4630 chars]"
       },
-      "author": "Liberation.fr",
-      "title": "Sénatrice noire et «jeune»: Kamala Harris, colistière parfaite de Joe Bidden",
-      "description": "Les appels pour que le candidat démocrate choisisse une colistière noire se multipliaient depuis le mouvement de protestation contre le racisme et les violences policières provoqué par la mort de George Floyd. Fille d’immigrés jamaïcain et indienne, Kamala Ha…",
-      "url": "https://www.liberation.fr/planete/2020/08/12/senatrice-noire-et-jeune-kamala-harris-colistiere-parfaite-de-joe-bidden_1796619?xtor=rss-450",
-      "urlToImage": "https://medias.liberation.fr/photo/1276284-la-senatrice-kamala-harris-lors-d-un-debat-democrate-a-atlanta-le-20-novembre-2019.jpg?modified_at=1575441563&amp;picto=fb&amp;ratio_x=191&amp;ratio_y=100&amp;width=1080",
-      "publishedAt": "2020-08-12T04:45:03Z",
-      "content": "Ancienne rivale, et virulente critique au début des primaires: le candidat démocrate Joe Biden a annoncé mardi avoir choisi la sénatrice de Californie Kamala Harris comme colistière dans sa course à … [+7112 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vanguard"
+      {
+          "source": {
+              "id": null,
+              "name": "Viva.co.id"
+          },
+          "author": "Radhitya Andriansyah",
+          "title": "Erdogan Ungkap Sosok Jenderal Israel Haus Darah Orang Palestina",
+          "description": "Berita Erdogan Ungkap Sosok Jenderal Israel Haus Darah Orang Palestina terbaru hari ini 2021-05-19 15:20:03 dari sumber yang terpercaya",
+          "url": "https://www.viva.co.id/militer/militer-dunia/1373645-erdogan-ungkap-sosok-jenderal-israel-haus-darah-orang-palestina",
+          "urlToImage": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/05/19/60a4bf3a2cbfd-viva-militer-presiden-turki-recep-tayyip-erdogan_665_374.jpg",
+          "publishedAt": "2021-05-19T08:20:03Z",
+          "content": "VIVA  Tak perlu diragukan lagi bagaimana solidaritas seorang Recep Tayyip Erdogan terhadap rakyat Palestina. Presiden Turki ke-12 ini sangat berempati terhadap penderitaan rakyat Palestina, yang teru… [+715 chars]"
       },
-      "author": "Rasheed Sobowale",
-      "title": "How Americans react to choice of black woman as VP hopeful",
-      "description": "Democratic White House hopeful Joe Biden on Tuesday named Kamala Harris, a high-profile senator from California, as his vice presidential pick. Here is how US politicians and celebrities have reacted to her nomination: – Barack Obama – Former president Barack…",
-      "url": "https://www.vanguardngr.com/2020/08/how-americans-react-to-choice-of-black-woman-as-vp-hopeful/",
-      "urlToImage": null,
-      "publishedAt": "2020-08-12T04:43:56Z",
-      "content": "JOE BIDEN and KAMALA HARRIS. PHOTO: Brian Cahn/ZUMA Wire\r\nDemocratic White House hopeful Joe Biden on Tuesday named Kamala Harris, a high-profile senator from California, as his vice presidential pic… [+1812 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Svet.sme.sk"
+      {
+          "source": {
+              "id": "rtl-nieuws",
+              "name": "RTL Nieuws"
+          },
+          "author": null,
+          "title": "Druk op staakt-het-vuren in Gaza neemt toe, aanvallen gaan door",
+          "description": "De Amerikaanse president Joe Biden heeft er bij Israël op aangedrongen de militaire operatie in de Gazastrook stop te zetten. Daarmee neemt de druk om tot een staakt-het-vuren in het gebied te komen nog verder toe.",
+          "url": "https://www.rtlnieuws.nl/nieuws/buitenland/artikel/5231865/israel-gaza-palestijnen-biden-netanyahu-staakthetvuren-vn",
+          "urlToImage": "https://www.rtlnieuws.nl/sites/default/files/styles/liggend_hoge_resolutie/public/content/images/2021/05/19/ANP-431525292.jpg?itok=ypJ49dj-",
+          "publishedAt": "2021-05-19T08:19:05Z",
+          "content": "De Israëlische president Netanyahu geeft vooralsnog geen gehoor aan de oproep van Biden. Israël zou, volgens AP, hebben geantwoord dat de militaire operatie nog iets langer moet duren om Hamas verder… [+433 chars]"
       },
-      "author": "TASR",
-      "title": "Biden a Trump podľa očakávaní vyhrali primárky v Connecticute",
-      "description": "Ani jeden z nich nemá reálneho súpera.",
-      "url": "https://svet.sme.sk/c/22465744/biden-a-trump-podla-ocakavani-vyhrali-primarky-v-connecticute.html",
-      "urlToImage": "https://m.smedata.sk/api-media/media/image/sme/3/63/6395693/6395693_1200x.jpeg?rev=2",
-      "publishedAt": "2020-08-12T04:43:49Z",
-      "content": "Ani jeden z nich nemá reálneho súpera.12. aug 2020 o 6:43 TASR WASHINGTON. Demokrat Joe Biden a republikán Donald Trump zvíazili v utorkových primárkach svojich strán v americkom táte Connecticut, in… [+1393 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Politiken.dk"
+      {
+          "source": {
+              "id": null,
+              "name": "CounterPunch"
+          },
+          "author": "Dan Bacher",
+          "title": "Catastrophic Juvenile Fish Kill Unfolds on the Klamath River",
+          "description": "Today (May 13), the Yurok Tribe reported that a widespread and catastrophic juvenile fish kill is taking place on the Klamath River, a day after the US Bureau of Reclamation announced that it would not release water to prevent a juvenile salmon kill on the ri…",
+          "url": "https://www.counterpunch.org/2021/05/19/catastrophic-juvenile-fish-kill-unfolds-on-the-klamath-river/",
+          "urlToImage": null,
+          "publishedAt": "2021-05-19T08:15:39Z",
+          "content": "Today (May 13), the Yurok Tribe reported that a widespread and catastrophic juvenile fish kill is taking place on the Klamath River, a day after the US Bureau of Reclamation announced that it would n… [+9204 chars]"
       },
-      "author": null,
-      "title": "Trump er overrasket over Bidens bud på vicepræsident",
-      "description": "Ifølge den amerikanske præsident har Kamala Harris opført sig dårligt over for præsidentkandidat Joe Biden.",
-      "url": "https://politiken.dk/udland/art7883693/Trump-er-overrasket-over-Bidens-bud-p%C3%A5-vicepr%C3%A6sident",
-      "urlToImage": "https://politiken.dk/incoming/img7883756.3yh1nq/ALTERNATES/p16x9_960/FILE%20PHOTO%20Former%20Vice%20President%20Biden%20talks%20with%20Senator%20Harris%20after%20the%20conclusion%20of%20the%202020%20Democratic%20U.S",
-      "publishedAt": "2020-08-12T04:39:20Z",
-      "content": "Der er ikke oplæsning af denne artikel, så den oplæses derfor med maskinstemme. Kontakt os gerne på automatiskoplaesning@pol.dk, hvis du hører ord, hvis udtale kan forbedres. Du kan også hjælpe ved a… [+2580 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Natemat.pl"
+      {
+          "source": {
+              "id": null,
+              "name": "Internazionale.it"
+          },
+          "author": "Internazionale",
+          "title": "Netanyahu resta sordo agli appelli per un cessate il fuoco",
+          "description": "Il primo ministro israeliano ha ribadito che le operazioni militari proseguiranno “finché sarà necessario”. I governi che lo sostengono sono in imbarazzo, e la rivolta alimenta con le sofferenze della popolazione di Gaza. Leggi",
+          "url": "https://www.internazionale.it/opinione/pierre-haski/2021/05/19/netanyahu-appelli-cessate-fuoco",
+          "urlToImage": "https://media.internazionale.it/images/2021/05/19/161975-sd.jpg",
+          "publishedAt": "2021-05-19T08:13:20Z",
+          "content": "Solo un uomo continua a opporsi alla fine delle ostilità tra Israele e il movimento Hamas a Gaza, ed è Benjamin Netanyahu. Il 18 maggio il primo ministro israeliano ha ribadito che le operazioni mili… [+3510 chars]"
       },
-      "author": "Łukasz Grzegorczyk",
-      "title": "To pierwsza taka nominacja w historii USA. Biden wskazał kandydatkę na wiceprezydenta",
-      "description": "Joe Biden, kandydat Partii Demokratycznej na prezydenta USA wskazał senator Kamalę Harris jako swoją kandydatkę na wiceprezydenta. To historyczna nominacja, bowiem pierwsza czarnoskóra kobieta została wskazana przez jedną z czołowych amerykańskich partii w ry…",
-      "url": "https://natemat.pl/317305,joe-biden-ma-kandydatke-na-wiceprezydenta-usa-kim-jest-kamala-harris",
-      "urlToImage": "https://cdn.natemat.pl/7f204bc8f1a4a1f05151a972b3566b29,1200,0,0,0.jpg",
-      "publishedAt": "2020-08-12T04:38:22Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deadline"
+      {
+          "source": {
+              "id": null,
+              "name": "Slashdot.org"
+          },
+          "author": "feedfeeder",
+          "title": "Biden pushes $174B electric vehicle investment to beat China, boost US manufacturing - NBC Montana",
+          "description": "Biden pushes $174B electric vehicle investment to beat China, boost US manufacturingNBC Montana Biden jokes about running over reporter with vehicle when asked about Israel during Ford test driveFox News Biden takes new electric F-150 for a test drive: 'This …",
+          "url": "https://slashdot.org/firehose.pl?op=view&amp;id=146529590",
+          "urlToImage": null,
+          "publishedAt": "2021-05-19T08:12:50Z",
+          "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
       },
-      "author": "Alexandra Del Rosario",
-      "title": "Late Night Hosts React To Kamala Harris’ Historic Vice Presidential Bid",
-      "description": "Hours after Joe Biden announced that California senator Kamala Harris would be his running mate for the 2020 presidential election, late night hosts finally shared their opinions on the news. The Late Show host Stephen Colbert and The Daily Show‘s Trevor Noah…",
-      "url": "https://deadline.com/2020/08/late-night-hosts-react-kamala-harris-vice-president-1203010984/",
-      "urlToImage": "https://pmcdeadline2.files.wordpress.com/2020/03/stephen-colbert-jimmy-fallon-trevor-noah-.jpg?w=1000",
-      "publishedAt": "2020-08-12T04:37:40Z",
-      "content": "Hours after Joe Biden announced that California senator Kamala Harris would be his running mate for the 2020 presidential election, late night hosts finally shared their opinions on the news.\r\nThe La… [+2479 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DIE WELT"
+      {
+          "source": {
+              "id": null,
+              "name": "Golem.de"
+          },
+          "author": null,
+          "title": "Joe Biden: \"Die elektrische Zukunft gehört den USA, nicht China\"",
+          "description": "Der neue US-Präsident Joe Biden ist ein Befürworter der Elektromobilität. Er hat gefordert, dass die USA China die Spitzposition wieder abnehmen sollen. (Joe Biden, Technologie)",
+          "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fjoe-biden-die-zukunft-des-autos-ist-elektrisch-2105-156600-rss.html&referer=https%3A%2F%2Ft.co%2F31e01653f9",
+          "urlToImage": null,
+          "publishedAt": "2021-05-19T08:10:00Z",
+          "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking, indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informatio… [+575 chars]"
       },
-      "author": null,
-      "title": "Kamala Harris - Die Frau an Joe Bidens Seite",
-      "description": "Kamala Harris tritt im November als Vizepräsidentschaftskandidatin von Joe Biden gegen Donald Trump an. Sie ist die Tochter eines Jamaikaners und einer Inderin und zur Zeit Senatorin des Bundesstaats Kalifornien.",
-      "url": "https://www.welt.de/videos/video213357078/Vizepraesidentschaft-Kamala-Harris-Die-Frau-an-Joe-Bidens-Seite.html",
-      "urlToImage": "https://www.welt.de/img/videos/mobile213357106/4021355357-ci16x9-w1200/Biden-zieht-mit-Harris-als-Vize-Kandidatin-in-Wahl.jpg",
-      "publishedAt": "2020-08-12T04:37:37Z",
-      "content": "Die WELT als ePaper: Die vollständige Ausgabe steht Ihnen bereits am Vorabend zur Verfügung so sind Sie immer hochaktuell informiert. Weitere Informationen: http://epaper.welt.de \r\n Der Kurz-Link die… [+49 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
+      {
+          "source": {
+              "id": null,
+              "name": "Golem.de"
+          },
+          "author": null,
+          "title": "Joe Biden: Die elektrische Zukunft soll den USA gehören, nicht China",
+          "description": "Der neue US-Präsident Joe Biden ist ein Befürworter der Elektromobilität. Er hat gefordert, dass die USA China die Spitzposition wieder abnehmen sollen. (Joe Biden, Technologie)",
+          "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fjoe-biden-die-zukunft-des-autos-ist-elektrisch-2105-156600.html&referer=https%3A%2F%2Ft.co%2F5e6a79f50a",
+          "urlToImage": null,
+          "publishedAt": "2021-05-19T08:10:00Z",
+          "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking, indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informatio… [+575 chars]"
       },
-      "author": "Benny Johnson",
-      "title": "Biden Reads From Script And Holds Phone Upside Down In Call With Kamala",
-      "description": "3 VERY IMPORTANT THINGS about this photo of Joe Biden calling Kamala to offer her VP spot: 1. Biden has to read from a script that is clearly visible 2. Biden does not know how to hold an iPhone (its upside down) 3. The cartoon on Bidens desk is a man screa…",
-      "url": "https://www.freerepublic.com/focus/f-news/3873574/posts",
-      "urlToImage": null,
-      "publishedAt": "2020-08-12T04:36:51Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Le Soir"
+      {
+          "source": {
+              "id": null,
+              "name": "DW (English)"
+          },
+          "author": "Deutsche Welle (www.dw.com)",
+          "title": "Nord Stream 2: US to waive sanctions against leading company",
+          "description": "The US government has decided not to sanction the German company behind the Baltic gas pipeline, according to US media reports. The Biden administration is prioritizing good relations with Germany. US President Joe Biden will waive sanctions against certain m…",
+          "url": "https://www.dw.com/en/nord-stream-2-us-to-waive-sanctions-against-leading-company/a-57577345",
+          "urlToImage": "https://static.dw.com/image/56483544_6.jpg",
+          "publishedAt": "2021-05-19T08:09:00Z",
+          "content": "US President Joe Biden will waive sanctions against certain major parties involved in the construction of the Nord Stream 2 gas pipeline from Russia to Germany, US media reported Tuesday.\r\nThe State … [+2646 chars]"
       },
-      "author": "Par Le Soir",
-      "title": "Trump critique la désignation de Kamala Harris: «Elle a eu de très mauvais résultats aux primaires»",
-      "description": "«J’étais plus surpris qu’autre chose parce qu’elle a été très médiocre» pendant la campagne des primaires démocrates, remportée par Joe Biden, a déclaré le président des Etats-Unis .",
-      "url": "https://www.lesoir.be/318529/article/2020-08-12/trump-critique-la-designation-de-kamala-harris-elle-eu-de-tres-mauvais-resultats",
-      "urlToImage": "https://www.lesoir.be/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2020/08/12/node_318529/27667151/public/2020/08/12/B9724261898Z.1_20200812063637_000+G72GFNPRK.2-0.jpg?itok=uGWg1vPB1597207844",
-      "publishedAt": "2020-08-12T04:36:37Z",
-      "content": "Le président américain Donald Trump sest dit mardi «surpris» par la décision du candidat démocrate à la Maison Blanche de choisir comme colistière la sénatrice noire Kamala Harris, dont il a jugé les… [+1072 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Le HuffPost"
+      {
+          "source": {
+              "id": null,
+              "name": "Daily Mail"
+          },
+          "author": "Chris Pleasance",
+          "title": "Israel Palestine conflcit: IDF twice tried and failed to kill senior Hamas commander",
+          "description": "The IDF carried out two airstrikes on Monday last week targeting Hamas's most-senior military commander Mohammed Deif, a military spokesman said, but he survived both attacks.",
+          "url": "https://www.dailymail.co.uk/news/article-9594861/Israel-Palestine-conflcit-IDF-twice-tried-failed-kill-senior-Hamas-commander.html",
+          "urlToImage": "https://i.dailymail.co.uk/1s/2021/05/19/08/43168267-0-image-a-34_1621410726335.jpg",
+          "publishedAt": "2021-05-19T08:06:53Z",
+          "content": "Israel twice tried and failed to kill Hamas's top military commander last week but he survived both attacks, a spokesman for the Israel Defence Forces has claimed.\r\nMohammed Deif, 55, commander of Ha… [+11501 chars]"
       },
-      "author": "Le HuffPost avec AFP",
-      "title": "Kamala Harris, une colistière \"très médiocre\" pour Joe Biden, juge Donald Trump",
-      "description": "ÉTATS-UNIS - Les attaques ont fusé d’emblée. Le président américain Donald Trump s’est dit ce mardi 11 août “surpris” par la décision du candidat démocrate à la Maison Blanche de choisir comme colistière la sénatrice noire Kamala Harris, dont il a jugé les pe…",
-      "url": "https://www.huffingtonpost.fr/entry/donald-trump-kamala-harris-tres-mediocre_fr_5f336b41c5b64cc99fdfb80c",
-      "urlToImage": "https://img.huffingtonpost.com/asset/5f336ff3220000eaa03887e7.jpeg?cache=CqGN6kCR56&ops=1200_630",
-      "publishedAt": "2020-08-12T04:36:04Z",
-      "content": "ÉTATS-UNIS - Les attaques ont fusé d’emblée. Le président américain Donald Trump s’est dit ce mardi 11 août “surpris” par la décision du candidat démocrate à la Maison Blanche de choisir comme colist… [+2113 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "RealClearPolitics"
+      {
+          "source": {
+              "id": null,
+              "name": "Florida Politics"
+          },
+          "author": null,
+          "title": "Sunburn — The morning read of what's hot in Florida politics — 5.19.21 - Florida Politics",
+          "description": "Sunburn — The morning read of what's hot in Florida politics — 5.19.21  Florida Politics",
+          "url": "https://floridapolitics.com/archives/430266-sunburn-the-morning-read-of-whats-hot-in-florida-politics-5-19-21/",
+          "urlToImage": "https://floridapolitics.com/wp-content/uploads/2019/01/Sunburn-Orange-Tally-7-1.jpg",
+          "publishedAt": "2021-05-19T08:03:36Z",
+          "content": "U.S. Rep. Val Demings all but confirmed shes running for U.S. Senate in 2022.\r\nWhile Demings, an Orlando Democrat, is certainly a high-caliber candidate for voters eager to oust U.S. Sen. Marco Rubio… [+58268 chars]"
       },
-      "author": null,
-      "title": "Trump: Kamala Harris Made \"Terrible Statements\" About Biden, \"Essentially Called Him A Racist\"",
-      "description": "President Donald Trump joins Sean Hannity for an interview and discussed the media treatment of ongoing unrest in major cities, Joe Biden's decision to choose Sen. Kamala Harris as his running mate, and the upcoming election.\r\n\r\n\r\n\r\nSEAN HANNITY, FOX NEWS HOS…",
-      "url": "https://www.realclearpolitics.com/video/2020/08/11/trump_kamala_harris_made_terrible_statements_about_biden_essentially_called_him_a_racist.html",
-      "urlToImage": "https://assets.realclear.com/images/45/458716.jpg",
-      "publishedAt": "2020-08-12T04:35:14Z",
-      "content": "SEAN HANNITY, FOX NEWS HOST:  Joining us now live -- he's in the White House as we speak -- is the President of the United States.Mr. President, thank you, sir, for joining us. Appreciate you being h… [+4175 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "L'Express"
+      {
+          "source": {
+              "id": null,
+              "name": "Ilfattoquotidiano.it"
+          },
+          "author": "Pierfranco Pellizzetti",
+          "title": "Governo Draghi, sempre dalla parte dei ricchi e dei potenti",
+          "description": "“Draghi è Grande e Lilli Gruber è il suo Profeta”, tuona dal minareto de la Sette la muezzin altoatesina, in trans alla notizia che “il Misericordioso” si è tagliato lo stipendio da Primo Ministro del governo dei Migliori. E all’apologeta non passa neppure pe…",
+          "url": "https://www.ilfattoquotidiano.it/2021/05/19/governo-draghi-sempre-dalla-parte-dei-ricchi-e-dei-potenti/6201120/",
+          "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/04/27/draghi-camera-1200.jpg",
+          "publishedAt": "2021-05-19T08:03:10Z",
+          "content": "“Draghi è Grande e Lilli Gruber è il suo Profeta”, tuona dal minareto de la Sette la muezzin altoatesina, in trans alla notizia che il Misericordioso si è tagliato lo stipendio da Primo Ministro del … [+3788 chars]"
       },
-      "author": "LEXPRESS.fr avec AFP",
-      "title": "États-Unis : Joe Biden choisit la sénatrice Kamala Harris, première colistière noire",
-      "description": "À 55 ans, la sénatrice de Californie est aussi la première personne d'origine indienne à briguer la vice-présidence. Elle pourrait être la dauphine désignée pour 2024.",
-      "url": "https://www.lexpress.fr/actualite/monde/amerique-nord/etats-unis-joe-biden-choisit-la-senatrice-kamala-harris-premiere-colistiere-noire_2132738.html",
-      "urlToImage": "https://static.lexpress.fr/medias_12248/w_1811,h_1359,c_crop,x_109,y_3/w_605,h_350,c_fill,g_north/v1597205395/kamala-harris-joe-biden_6271368.jpg",
-      "publishedAt": "2020-08-12T04:34:27Z",
-      "content": "Un choix historique. Le candidat démocrate à la Maison Blanche Joe Biden a choisi la sénatrice Kamala Harris pour défier avec lui Donald Trump le 3 novembre, première femme noire colistière aux États… [+5009 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
+      {
+          "source": {
+              "id": "la-repubblica",
+              "name": "La Repubblica"
+          },
+          "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+          "title": "Così l'America torna a pesare in Libia",
+          "description": "Dopo aver nominato l'inviato speciale Nolan, l'amministrazione Biden invia il sottosegretario Hood, primo funzionario Usa a Tripoli dal 2014. Segno che Washington vuole tornare ad avere un ruolo di primo piano nella regione",
+          "url": "https://www.repubblica.it/esteri/2021/05/19/news/cosi_l_america_torna_a_pesare_in_libia-301655685/",
+          "urlToImage": "https://www.repstatic.it/content/nazionale/img/2021/05/18/205713866-9b92b53d-d1ad-4d8d-a626-cb959916501f.jpg",
+          "publishedAt": "2021-05-19T08:01:57Z",
+          "content": "\"L'obiettivo degli Stati Uniti è una Libia stabile e unificata, senza interferenze straniere, con uno Stato capace di combattere il terrorismo\". Le parole di Joey Hood possono sembrare la solita lita… [+231 chars]"
       },
-      "author": "feedfeeder",
-      "title": "‘Donny from Queens’: Trump’s call into a sports radio show reveals the politics behind his push to restart college football - The Washington P",
-      "description": "‘Donny from Queens’: Trump’s call into a sports radio show reveals the politics behind his push to restart college footballThe Washington Post Trump unloads in morning interviews as U.S. struggles to tame virusPOLITICO U.S. governors cringe at cost of Trump's…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=134712371",
-      "urlToImage": null,
-      "publishedAt": "2020-08-12T04:33:29Z",
-      "content": "If you push the \"extra ice\" button on the soft drink vending machine, you won't\r\nget any ice. If you push the \"no ice\" button, you'll get ice, but no cup."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "China increases military drills as tensions with US heat up - CNN",
-      "description": "China increases military drills as tensions with US heat upCNN US Secretary of Health and Human Services on learnings from TaiwanABC News Azar defends Taiwan trip, says China should worry about 'getting more transparent, more open' on coronavirusFox News Trum…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=134712361",
-      "urlToImage": null,
-      "publishedAt": "2020-08-12T04:33:19Z",
-      "content": "If you push the \"extra ice\" button on the soft drink vending machine, you won't\r\nget any ice. If you push the \"no ice\" button, you'll get ice, but no cup."
-    }
+      {
+          "source": {
+              "id": null,
+              "name": "Biziday.ro"
+          },
+          "author": "Vlad",
+          "title": "Politico: FBI cercetează activitatea lui Rudy Giuliani, fostul avocat al lui Donald Trump, în România. În 2018, Giuliani a fost plătit să-i trimită lui Klaus Iohannis o scrisoare în care denunța ”abuzurile și excesele” DNA.",
+          "description": "Politico amintește că Freeh Group, o firmă de consultanță înființată de un fost șef al FBI, a fost angajată în 2016 să-l reprezinte pe Puiu Popoviciu, condamnat la 7 ani de închisoare în urma unei anchete DNA. Louis Freeh, care era și avocatul fugarului Adame…",
+          "url": "https://www.biziday.ro/politico-fbi-cerceteaza-activitatea-lui-rudy-giuliani-fostul-avocat-al-lui-donald-trump-in-romania-in-2018-giuliani-a-fost-platit-sa-i-trimita-lui-klaus-iohannis-o-scrisoare-in-care-denunta/",
+          "urlToImage": "https://cdn.biziday.ro/wp-content/uploads/2020/11/trump-giuliani.png",
+          "publishedAt": "2021-05-19T08:01:51Z",
+          "content": "Politico amintete c Freeh Group, o firm de consultan înfiinat de un fost ef al FBI, a fost angajat în 2016 s-l reprezinte pe Puiu Popoviciu, condamnat la 7 ani de închisoare în urma unei anchete DNA.… [+1480 chars]"
+      }
   ]
 }
