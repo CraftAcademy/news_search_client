@@ -1,3 +1,10 @@
+# User stories
+```
+As a user
+to be able to find the news i want 
+i want to be able to search for the news
+```
+
 ## Midcourse Exam Challenge Revisited - News Search
 
 We live in exciting times!
