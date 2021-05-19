@@ -7,12 +7,12 @@ describe('user can search for articles', () => {
       url: 'https://newsapi.org/v2/everything?q=**',
       response: 'biden.json'
     })
-    cy.get('[data-cy=input-field]').type('Biden')
-    cy.get('[data-cy=search-button]').click()
+    cy.get('[data-cy=news-search]').type('Biden')
+    cy.get('[data-cy=search-submit]').click()
   })
 
   it('is expected to display list of articles', () => {
-    cy.get('[data-cy=article-container]').should('contain', 'articles')
+    cy.get('[data-cy=article-container]').should('have.length', 20)
   });
 
   it('is expected to dirplay title', () => {
