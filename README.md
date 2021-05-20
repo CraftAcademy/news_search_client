@@ -1,3 +1,12 @@
+## TODO
+
+- API??
+- Api key 908afddab71946bf87a1135271e8e733
+- Check out app
+- Create search functionality
+- Store input
+- OnClick
+
 ## Midcourse Exam Challenge Revisited - News Search
 
 We live in exciting times!
@@ -13,30 +22,35 @@ Once you feel that you are finished with the coding challenge you need to open u
 ![](gh_search_basic_ui.png)
 
 ### Resources
+
 You will be using the News API to fetch the articles. You will have to sign up for a free account with tthe service. Please remember that you should NOT check in your API KEY in a public GitHub repository. Either use enviromental variables and `gitignore`, or simply remove the api key befor checking in your code.
 
 - News API Documentation: https://newsapi.org/
 - Getting started: https://newsapi.org/docs/get-started
 - Postman: https://www.postman.com/
 
-
 ### Tests
+
 This repository has been equipped with Cypress for E2E tests. You will get extra scores for adding component tests (using Jest and Enzyme)
 
 To run the test suite, execute:
+
 ```
 $ yarn cypress
 ```
 
 ### Your exam
+
 The facilitator will inform you how much time you have to complete the task. You are free to use any resources you deem necessary. We will observe your workflow as well as assess the quality of your code and tests.
 
 Good luck!
 
 ### Example response
+
 The search for "Biden" yields the results that we added to the fixture file.
 
 http://newsapi.org/v2/everything?q=biden&from=2020-07-12&sortBy=publishedAt&apiKey=<API_KEY>
+
 ```json
 {
   "status": "ok",
