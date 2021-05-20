@@ -4,9 +4,10 @@
 - Api key 908afddab71946bf87a1135271e8e733-
 - Check out app -
 - TEST :)) -
-- Create search functionality
-- Store input
-- OnClick
+- Create search functionality-
+- Store input-
+- OnClick-
+- Show Articles
 
 ## Midcourse Exam Challenge Revisited - News Search
 

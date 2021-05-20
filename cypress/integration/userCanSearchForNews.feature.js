@@ -8,15 +8,16 @@ describe('User can search for news', () => {
     );
 
     cy.visit('/');
+    cy.get('[data-cy=news-search]').type('biden');
+    cy.get('[data-cy=search-submit]').click();
   });
 
   it('is expected to show 10 articles', () => {
-    cy.get('[data-cy=news-search]').type('biden');
-    cy.get('[data-cy=search-submit]').click();
-    cy.get('[data-cy=article]').should('have.lengt', 10);
+    cy.wait(1000);
+    cy.get('[data-cy=article]').should('have.length', 10);
   });
 
-  it('is expected to display article information', () => {
+  it.only('is expected to display article information', () => {
     cy.get('[data-cy=article]')
       .first()
       .within(() => {
@@ -27,10 +28,10 @@ describe('User can search for news', () => {
         );
         cy.get('[data-cy=title]').should(
           'contain',
-          '"US: Harris under scrutiny for tough-on-crime prosecutor past'
+          'US: Harris under scrutiny for tough-on-crime prosecutor past'
         );
         cy.get('[data-cy=author]').should('contain', 'Rasheed Sobowale');
-        cy.get('[data-cy=published]').should('contain', '2020-08-12T04:51:00Z');
+        cy.get('[data-cy=published]').should('contain', '2020-08-12');
         cy.get('[data-cy=url]').should(
           'have.attr',
           'href',
