@@ -11,8 +11,9 @@ const NewsSearch = () => {
   };
 
   const sendRequest = async () => {
+    let key = process.env.REACT_APP_NEWS_API_KEY
     let response = await axios.get(
-      `http://newsapi.org/v2/everything?q=${searchQuery}&sortBy=publishedAt&apiKey=5d48999320a142eea038784383f93b76`
+      `http://newsapi.org/v2/everything?q=${searchQuery}&sortBy=publishedAt&apiKey=${key}`
     );
     setNews(response.data.articles);
   };
@@ -22,6 +23,7 @@ const NewsSearch = () => {
       return (
         <div data-cy='article' key={index}>
           <h3 data-cy='title'>{article.title}</h3>
+          <p>{article.description}</p>
         </div>
       );
     }
