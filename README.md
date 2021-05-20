@@ -1,3 +1,9 @@
+# Plan
+- PR
+- Tests: intercept request
+- fill form, test for first title, displays 5 articles
+- 
+
 ## Midcourse Exam Challenge Revisited - News Search
 
 We live in exciting times!

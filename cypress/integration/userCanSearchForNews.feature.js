@@ -1,5 +1,7 @@
 describe('Application main view', () => {
   beforeEach(() => {
+    cy.intercept('GET', 'http://newsapi.org/v2/everything?q=biden**>', 
+    { fixture: 'biden.json'})
     cy.visit('/')
   });
 
@@ -7,4 +9,5 @@ describe('Application main view', () => {
     cy.get("[data-cy=title]")
       .should('contain', 'News Search')
   });
+
 });
