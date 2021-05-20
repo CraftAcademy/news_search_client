@@ -15,18 +15,17 @@ const NewsSearch = () => {
       `http://newsapi.org/v2/everything?q=${searchQuery}&sortBy=publishedAt&apiKey=5d48999320a142eea038784383f93b76`
     );
     setNews(response.data.articles);
-    //renderArticles(response.data.articles)
   };
 
-  
-    const newsList = news.map((article, index) => {
+  const newsList = news.map((article, index) => {
+    while (index < 5) {
       return (
         <div data-cy='article' key={index}>
           <h3 data-cy='title'>{article.title}</h3>
         </div>
       );
-    });
- 
+    }
+  });
 
   return (
     <>
@@ -40,7 +39,7 @@ const NewsSearch = () => {
       <Button data-cy='search-submit' onClick={() => sendRequest()}>
         Search
       </Button>
-      {newsList}
+      <div data-cy="article-display">{newsList}</div>
     </>
   );
 };

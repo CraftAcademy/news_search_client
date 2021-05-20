@@ -13,7 +13,7 @@ describe('Application main view', () => {
   it('is expected to show recent news', () => {
     cy.get('[data-cy="news-search"]').type('biden');
     cy.get('[data-cy="search-submit"]').click();
-    cy.get('[data-cy="article"]').should('eq', 5);
+    cy.get('[data-cy="article-display"]').find('h3').should('have.length', 5);
     cy.get('[data-cy="article"]')
       .first()
       .within(() => {
