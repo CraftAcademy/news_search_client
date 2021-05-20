@@ -14,7 +14,7 @@ const NewsSearch = () => {
     setLoading(true);
     try {
       let response = await axios.get(
-        `https://newsapi.org/v2/everything?q=${input}&from=2020-07-12&sortBy=popularity&apiKey=${API_KEY}`
+        `http://newsapi.org/v2/everything?q=${input}&sortBy=popularity&apiKey=${API_KEY}`
       );
       setArticles(response.data.articles);
     } catch (error) {
@@ -25,7 +25,7 @@ const NewsSearch = () => {
 
   return (
     <>
-      <div style={{marginTop: 10}}>
+      <div style={{ marginTop: 10 }}>
         <Input
           type='text'
           data-cy='news-search'
