@@ -12,7 +12,7 @@ const NewsSearch = () => {
 
   const sendRequest = async () => {
     let response = await axios.get(
-      `http://newsapi.org/v2/everything?q=${searchQuery}`
+      `http://newsapi.org/v2/everything?q=${searchQuery}&sortBy=publishedAt&apiKey=5d48999320a142eea038784383f93b76`
     );
     setNews(response.data.articles);
     //renderArticles(response.data.articles)
