@@ -3,7 +3,7 @@ describe('User can search for news', () => {
     cy.server();
     cy.route(
       'GET',
-      'http://newsapi.org/v2/everything?q=**',
+      'https://newsapi.org/v2/everything?q=**',
       'fixture:biden.json'
     );
 

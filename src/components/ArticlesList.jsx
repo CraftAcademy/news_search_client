@@ -35,15 +35,18 @@ const styles = {
   contianer: {
     display: 'flex',
     flexDirection: 'column',
-    marginTop: 25,
+    marginTop: 50,
   },
   row: {
     display: 'flex',
     flexDirection: 'row',
+    border: '1px solid lightgrey',
+    borderRadius: 3,
+    marginTop: 10,
   },
   image: {
-    height: 200,
-    width: 200,
+    height: '100%',
+    width: 300,
     objectFit: 'cover',
   },
 };

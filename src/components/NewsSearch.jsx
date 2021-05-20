@@ -8,26 +8,40 @@ const API_KEY = process.env.REACT_APP_NEWS_API;
 const NewsSearch = () => {
   const [input, setInput] = useState();
   const [articles, setArticles] = useState([]);
+  const [loading, setLoading] = useState(false);
 
   const handleSearch = async () => {
-    let response = await axios.get(
-      `http://newsapi.org/v2/everything?q=${input}&from=2020-07-12&sortBy=publishedAt&apiKey=${API_KEY}`
-    );
-    setArticles(response.data.articles);
+    setLoading(true);
+    try {
+      let response = await axios.get(
+        `https://newsapi.org/v2/everything?q=${input}&from=2020-07-12&sortBy=popularity&apiKey=${API_KEY}`
+      );
+      setArticles(response.data.articles);
+    } catch (error) {
+      console.log(error);
+    }
+    setLoading(false);
   };
 
   return (
     <>
-      <Input
-        type='text'
-        data-cy='news-search'
-        placeholder='Input search term'
-        onBlur={(event) => setInput(event.target.value)}
-      />
-      <Button onClick={() => handleSearch()} data-cy='search-submit'>
-        Search
-      </Button>
-      <ArticlesList articles={articles.slice(0, 10)} />
+      <div style={{marginTop: 10}}>
+        <Input
+          type='text'
+          data-cy='news-search'
+          placeholder='Input search term'
+          onBlur={(event) => setInput(event.target.value)}
+        />
+        <Button
+          loading={loading ? true : false}
+          onClick={() => handleSearch()}
+          data-cy='search-submit'>
+          Search
+        </Button>
+      </div>
+      <div style={{ marginTop: 50 }}>
+        <ArticlesList articles={articles.slice(0, 10)} />
+      </div>
     </>
   );
 };
