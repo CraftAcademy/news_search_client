@@ -1,10 +1,12 @@
-import React from 'react'
-import { Header } from 'semantic-ui-react'
+import React from 'react';
+import { Header } from 'semantic-ui-react';
 
 const Title = () => {
   return (
-    <Header data-cy="title" as="h1">News Search</Header>
-  )
-}
+    <Header style={{ marginTop: 10 }} data-cy='title' as='h1'>
+      News Search
+    </Header>
+  );
+};
 
-export default Title
+export default Title;
